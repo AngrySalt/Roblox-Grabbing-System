@@ -2,3 +2,4 @@ This github was made for the purpose of showing off my creation for the RCS disc
 
 https://github.com/AngrySalt/Roblox-Grabbing-System/assets/163327216/653d4671-9001-43a9-9183-b9ff403bd304
 
+To use it open the file called "ImportToRoblox.rbxm" your device may ask you for an application, choose "Roblox Studio"
